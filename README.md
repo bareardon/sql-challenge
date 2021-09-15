@@ -1,4 +1,4 @@
-# sql-emplpoyee-datanase
+# sql-emplpoyee-database
 Employee Database: A Mystery in Two Parts
 
 ## Background
