@@ -14,7 +14,7 @@ Inspected the CSVs and created an ERD of the tables.
 
 * Created a table schema for each of the six CSV files (specified data types, primary keys, foreign keys, and other constraints).
 
-* For the primary keys I checked to see if the column is unique. If not, otherwise I created a [composite key] which takes to primary keys in order to uniquely identify a row.
+* For the primary keys I checked to see if the column is unique. Otherwise, I created a [composite key] which takes to primary keys in order to uniquely identify a row.
  
 * Imported each CSV file into the corresponding SQL table. .
 
